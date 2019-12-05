@@ -8,5 +8,8 @@ From a technical perspective, the calculations are made in 3 parallel sections. 
 
 The program outputs the data from the collection period into a .csv file for future processing or graphing.
 
+Simulation through year 2025
 ![Sim through 2025](https://github.com/bergsm/EcoSim/blob/master/2025.png)
+
+Simulation through year 2100
 ![Sim through 2100](https://github.com/bergsm/EcoSim/blob/master/2100.png)
