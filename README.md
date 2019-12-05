@@ -7,3 +7,6 @@ There are 5 interacting variables in this simulation. The population of the deer
 From a technical perspective, the calculations are made in 3 parallel sections. The population of the deer, the height of the grain, and the impact of deer waste are calculated in parallel to ensure impacts and effects of interacting variables are calculated accurately. Each parallel section includes barriers to ensure all sections move in concert with one another.
 
 The program outputs the data from the collection period into a .csv file for future processing or graphing.
+
+![Sim through 2025](https://github.com/bergsm/EcoSim/blob/master/2025.png)
+![Sim through 2100](https://github.com/bergsm/EcoSim/blob/master/2100.png)
